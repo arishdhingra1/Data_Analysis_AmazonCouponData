@@ -1,7 +1,7 @@
 # Instructions and Analysis
 
 **Instuctions to run the file:** <br />
-  1) Download the repository. <br />
+  1) Clone the repository. <br />
   2) Run the solution.ipynb file. The path to dataset is already configured but adjust if neccessary as per your local folders. <br /> <br />
 
 **Link to solutions file:** <br />
